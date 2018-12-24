@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#space {
+  display: block;
+  overflow: hidden;
+  background-color: black;
+  cursor: crosshair;
+}
