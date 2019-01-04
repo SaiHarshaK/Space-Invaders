@@ -421,7 +421,7 @@ options = {
         "  in Time: " +
         Math.floor((this.gameTimeEnd - this.gameTimeStart) / 1000),
       canvas.width / 2,
-      canvas.height / 2 + 70
+      canvas.height / 2 + 100
     );
   },
 
