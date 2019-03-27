@@ -1,6 +1,13 @@
 # Space-Invaders
 Space Invaders game on canvas using js
 
+## How to Run
+```shell
+$ npm i
+$ node index
+```
+
+## Instructions
 Your Objective is to clear all enemies as soon as possible with 3 lives while avoiding enemy fire.  
 
 Use (P) to toggle play/pause.  
